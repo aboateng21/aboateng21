@@ -1,1 +1,1 @@
-Hello there! 👋 I'm Akwasi, a professional in the aviation industry with a strong passion for data analysis and visualisation. This GitHub repository serves as a showcase of my journey into the world of data, where I explore various projects and skills related to data analysis.
+Hello there! 👋 I'm Akwasi, a Business Analyst in the aviation industry with a strong passion for data analysis and visualisation. This GitHub repository serves as a showcase of my journey into the world of data, where I explore various projects and skills related to data analysis.
